@@ -6,10 +6,15 @@ A repository of TIL snippets.
 
 ### Categories
 
-- [Rails](#rails)
 - [Database](#database)
+- [Rails](#rails)
+- [Ruby](#ruby)
 
 ---
+
+### Ruby
+
+- [Memoization can be tricky when `false` or `nil`](ruby/memoization-false-nil.md)
 
 ### Rails
 
