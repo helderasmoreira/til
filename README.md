@@ -6,6 +6,7 @@ A repository of TIL snippets.
 
 ### Categories
 
+- [CSS](#css)
 - [Database](#database)
 - [Life](#life)
 - [Rails](#rails)
@@ -14,6 +15,12 @@ A repository of TIL snippets.
 - [Ruby](#ruby)
 
 ---
+
+### CSS
+
+- [Emails should use inline CSS](css/emails-inline-css.md)
+- [Breakpoints are not as useful in emails](css/breakpoints-in-emails.md)
+
 ### Database
 
 - [MySQL does not support partial indexes](database/mysql-partial-indexes.md)
