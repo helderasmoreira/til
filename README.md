@@ -47,3 +47,4 @@ A repository of TIL snippets.
 ### Ruby
 
 - [Memoization can be tricky when `false` or `nil`](ruby/memoization-false-nil.md)
+- [Converting strings to integers is tricky business](ruby/string-to-i.md)
