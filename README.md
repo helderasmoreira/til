@@ -33,6 +33,7 @@ A repository of TIL snippets.
 ### Rails
 
 - [Rails will perform caching on **all** SQL queries](rails/sql-caching-now.md)
+- [Deep munging your params](rails/deep-munge.md)
 
 ### Regex
 
