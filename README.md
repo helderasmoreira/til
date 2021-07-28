@@ -7,23 +7,24 @@ A repository of TIL snippets.
 ### Categories
 
 - [Database](#database)
+- [Life](#life)
 - [Rails](#rails)
-- [Ruby](#ruby)
 - [Regex](#regex)
 - [REST](#rest)
+- [Ruby](#ruby)
 
 ---
 ### Database
 
 - [MySQL does not support partial indexes](database/mysql-partial-indexes.md)
 
+### Life
+
+- [Always be learning](life/always-be-learning.md)
+
 ### Rails
 
 - [Rails will perform caching on **all** SQL queries](rails/sql-caching-now.md)
-
-### Ruby
-
-- [Memoization can be tricky when `false` or `nil`](ruby/memoization-false-nil.md)
 
 ### Regex
 
@@ -32,3 +33,7 @@ A repository of TIL snippets.
 ### REST
 
 - [201 Created should respond just with an header](rest/201-created.md)
+
+### Ruby
+
+- [Memoization can be tricky when `false` or `nil`](ruby/memoization-false-nil.md)
