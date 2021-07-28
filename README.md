@@ -34,6 +34,7 @@ A repository of TIL snippets.
 
 - [Rails will perform caching on **all** SQL queries](rails/sql-caching-now.md)
 - [Deep munging your params](rails/deep-munge.md)
+- [Find or create with additional attributes](rails/find-or-create-by.md)
 
 ### Regex
 
