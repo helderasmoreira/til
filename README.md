@@ -10,12 +10,12 @@ A repository of TIL snippets.
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [Regex](#regex)
+- [REST](#rest)
 
 ---
 ### Database
 
 - [MySQL does not support partial indexes](database/mysql-partial-indexes.md)
-
 
 ### Rails
 
@@ -28,3 +28,7 @@ A repository of TIL snippets.
 ### Regex
 
 - [Easy way to look for duplicate lines in a sorted file](regex/duplicate-lines-sorted-file.md)
+
+### REST
+
+- [201 Created should respond just with an header](rest/201-created.md)
