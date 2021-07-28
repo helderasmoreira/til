@@ -17,6 +17,7 @@ A repository of TIL snippets.
 ### Database
 
 - [MySQL does not support partial indexes](database/mysql-partial-indexes.md)
+- [MySQL does case insensitive string comparison by default](database/mysql-string-comparison.md)
 
 ### Life
 
