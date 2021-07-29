@@ -8,6 +8,7 @@ A repository of TIL snippets on small things I learn day to day across a variety
 
 - [CSS](#css)
 - [Database](#database)
+- [Infrastructure](#infrastructure)
 - [Life](#life)
 - [Rails](#rails)
 - [Regex](#regex)
@@ -26,6 +27,10 @@ A repository of TIL snippets on small things I learn day to day across a variety
 
 - [MySQL does not support partial indexes](database/mysql-partial-indexes.md)
 - [MySQL does case insensitive string comparison by default](database/mysql-string-comparison.md)
+
+### Infrastructure
+
+- [Manage Heroku environment variables](infrastructure/manage-heroku-env-variables.md)
 
 ### Life
 
