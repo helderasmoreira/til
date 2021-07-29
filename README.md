@@ -13,6 +13,7 @@ A repository of TIL snippets on small things I learn day to day across a variety
 - [Regex](#regex)
 - [REST](#rest)
 - [Ruby](#ruby)
+- [Security](#security)
 
 ---
 
@@ -48,3 +49,7 @@ A repository of TIL snippets on small things I learn day to day across a variety
 
 - [Memoization can be tricky when `false` or `nil`](ruby/memoization-false-nil.md)
 - [Converting strings to integers is tricky business](ruby/string-to-i.md)
+
+### Security
+
+- [Constant time comparison helps prevent attacks](security/constant-time-comparison.md)
