@@ -1,6 +1,6 @@
 # TIL
 
-A repository of TIL snippets.
+A repository of TIL snippets on small things I learn day to day across a variety of languages and technologies.
 
 ---
 
