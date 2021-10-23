@@ -59,3 +59,4 @@ A repository of TIL snippets on small things I learn day to day across a variety
 
 - [Constant time comparison helps prevent attacks](security/constant-time-comparison.md)
 - [Stress your code and put it under siege](security/test-your-apps-with-siege.md)
+- [Cookie's SameSite options can be confusing](security/cookie-same-site.md)
